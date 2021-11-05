@@ -1,4 +1,3 @@
-use ahi
 use synthea
 
 CREATE TABLE nathalialpatients1 (
